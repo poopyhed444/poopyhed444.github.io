@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>first-blog-post on Xinpengs Blog</title>
+    <link>https://poopyhed444.github.io/tags/first-blog-post/</link>
+    <description>Recent content in first-blog-post on Xinpengs Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://poopyhed444.github.io/tags/first-blog-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Switching to Hugo</title>
+      <link>https://poopyhed444.github.io/post/switch/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://poopyhed444.github.io/post/switch/</guid>
+      <description>Regarding the Switch For some apparently reason, I decided to make a switch to Hugo from Jekyll for my Blog. I kind of preferred the look more of Hugo which is why I decided to switch, also I can add comments and stuff. However, I may switch again to my own code from scratch, IF I actually learn web dev and the Spring Framework. If you didn&amp;rsquo;t know, I host this blog with VSC and Github Pages.</description>
+    </item>
+    
+    <item>
+      <title>First Post! (Test)</title>
+      <link>https://poopyhed444.github.io/post/first/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://poopyhed444.github.io/post/first/</guid>
+      <description>Hello there! This is my first blog post, that I&amp;rsquo;m testing. If you are reading this, happy new years &amp;lt;3</description>
+    </item>
+    
+  </channel>
+</rss>
